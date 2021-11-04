@@ -1,0 +1,3 @@
+﻿  lab6.3.cpp
+C:\Users\vitaliy\source\repos\lab6.3\lab6.3.cpp(55): warning C4715: find: значение возвращается не при всех путях выполнения
+  lab6.3.vcxproj -> C:\Users\vitaliy\source\repos\lab6.3\Debug\lab6.3.exe
